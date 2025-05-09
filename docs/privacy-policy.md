@@ -82,8 +82,3 @@ Our web dashboards may use cookies or similar technologies for session managemen
 
 We may update this Policy at any time. When we do, we will revise the “Last updated” date above and post the new version. Your continued use of the Service after changes become effective signifies your acceptance of the revised Policy.
 
-## 14. Contact Us
-
-If you have any questions about this Privacy Policy or our data practices, please contact us at  
-**privacy@thovarstudios.com**.
-
