@@ -55,7 +55,3 @@ We may suspend or terminate your access to the Service at any time, with or with
 ## 13. Changes to Terms
 
 We reserve the right to modify these Terms at any time. When we do, we will update the “Last updated” date above and post the new version. Your continued use of the Service after changes become effective constitutes your acceptance of the revised Terms.
-
-## 14. Contact
-
-If you have any questions about these Terms, please contact us at support@thovarstudios.com.
